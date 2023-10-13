@@ -2,7 +2,7 @@
   "homepage": "https://ayushkatoch98.github.io/reactJS-template/",
   "name": "assessementfr",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
